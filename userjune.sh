@@ -12,5 +12,5 @@ else
 sudo useradd -m "$username"
 echo "$username:$passwd" | sudo chpasswd
 echo "USER CREATION DONE"
-
+echo "Its time to check & execute"
 fi
