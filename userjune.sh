@@ -14,6 +14,3 @@ echo "$username:$passwd" | sudo chpasswd
 echo "USER CREATION DONE"
 
 fi
-
-
-
